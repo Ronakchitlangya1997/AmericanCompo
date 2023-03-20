@@ -7,20 +7,28 @@ import {Home} from './components/Home';
 import {About} from './components/about';
 import {Expertise} from './components/expertise';
 import {Contact} from './components/contact';
+import {Earplugs} from './components/3MEarplugs';
+import {Footer} from './components/footer';
 import './components/header.css'
 import './components/about.css'
 import './components/expertise.css'
 import './components/contact.css'
+import './components/footer.css'
 
 function App() {
+  document.title = "American Compo"
   return (
+    <BrowserRouter>   
     <div className="App">
-      <Header></Header>
-      <Home></Home>
-      <About></About>
-      <Expertise></Expertise>
-      <Contact></Contact>
+    <Header></Header>
+      <Routes>
+            <Route path="/" element={<Home/>}/>
+            <Route path="/paraquat" element={<Earplugs/>}/>
+        </Routes>
+      <Footer></Footer>
     </div>
+    </BrowserRouter>
+ 
   );
 }
 

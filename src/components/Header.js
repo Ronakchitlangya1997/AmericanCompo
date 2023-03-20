@@ -35,7 +35,7 @@ export function Header() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" style={navbar_subtitle}>
               <Nav className="me-auto gap-4">
-                <Nav.Link style={navbar_subtitle_fonts} href="#home">Home</Nav.Link>
+                <Nav.Link style={navbar_subtitle_fonts} href="/">Home</Nav.Link>
                 <Nav.Link style={navbar_subtitle_fonts} href="#link">Talcum</Nav.Link>
                 <Nav.Link style={navbar_subtitle_fonts} href="#link">Camp Lejeune</Nav.Link>
                 <Nav.Link style={navbar_subtitle_fonts} href="#link">Zantac</Nav.Link>
