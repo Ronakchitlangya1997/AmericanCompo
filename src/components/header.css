@@ -5,11 +5,22 @@
     padding: 0;
 }
 
+.dropdownbtn{
+    margin-top: 5px;
+}
+
+.dropdownbtntext{
+    font-family: revert;
+}
+
 .navbar_title{
     background: #0F2B61;
     width: 24%;
-    padding: 1.5% 5% 1% 5%;
+    padding: 1.5% 4% 1% 2%;
     text-align: left;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
 }
 
 
@@ -44,10 +55,10 @@
 }
 
 .navbar_title_last_font{
-    font-family: 'Liberation Sans';
+    font-family: inherit;
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 25px;
     align-items: center;
     text-align: center;
@@ -60,6 +71,10 @@
     background-size: cover;
     height: 600px;
     justify-content: space-around;
+}
+
+.dropbtn{
+    gap: 78px;
 }
 
 
@@ -148,7 +163,7 @@
     padding: 16px;
     border-right: 16px solid transparent;
     outline: 1px solid;
-    font-family: 'Liberation Sans';
+    font-family: revert;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -205,6 +220,7 @@
     text-align: left;
     font-size: 28px;
     line-height: 1.4;
+    font-weight: 600;
 }
 
 .Section6_heading1{
@@ -214,7 +230,6 @@
 }
 
 .Section6_2{
-    margin-left: 50px;
     text-align: left;
     margin-top: 50px;
     width: 80%;
@@ -241,4 +256,53 @@
     font-weight: 400;
     color: #fff;
     width: 80%;
+}
+
+.Section6_2_1{
+    margin-left: 50px
+}
+
+.Section6_2_form_box{
+    background: #0F2B61;
+    padding: 10px 20px;
+    width: 25%;
+}
+
+.Section6_2_inputbox{
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.Section4_2_input{
+    width: 100%;
+    height: 50px;
+}
+
+.messbox{
+    height: 100%;
+}
+
+.Section6_2_form_button{
+    width: 100%;
+    height: 50px;
+    background: #FF5601;
+    border-radius: 5px;
+    border: 0px;
+    font-family: 'Liberation Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Section6_2_heding1{
+    font-family: revert;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    color: #fff;
+    text-align: center;
 }

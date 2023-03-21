@@ -34,15 +34,15 @@ export function Expertise() {
                     </div>
                 </div>
                 <div className="Section3_2_card">
-                    <img src="https://americancompo.s3.ap-south-1.amazonaws.com/Hernia.png" width="395" height="269" alt=""></img>
+                    <img src="https://americancompo.s3.ap-south-1.amazonaws.com/HairRelaxer.jpg" width="395" height="269" alt=""></img>
                     <div className="Section3_2_info">
-                        <p className="Section3_2_heading1">Hernia Mesh</p>
+                        <p className="Section3_2_heading1">Hair Relaxer</p>
                     </div>
                 </div>
                 <div className="Section3_2_card">
-                    <img src="https://americancompo.s3.ap-south-1.amazonaws.com/3m.png" width="395" height="269" alt=""></img>
+                    <img src="https://www.forbes.com/advisor/wp-content/uploads/2022/09/talcum.jpg" width="395" height="269" alt=""></img>
                     <div className="Section3_2_info">
-                        <p className="Section3_2_heading1">3M Earplugs</p>
+                        <p className="Section3_2_heading1">Talcum</p>
                     </div>
                 </div>
             </div>

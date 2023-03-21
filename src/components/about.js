@@ -8,61 +8,45 @@ export function About() {
                 <p className="section2_1_heading1">Why Choose</p>
                 <p className="section2_1_heading2">American Compo Legal</p>
                 <p className="section2_1_heading3">
-                    Lorem ipsum dolor sit amet consectetur. 
-                    Porta quam adipiscing odio auctor sit nibh cras id viverra. 
-                    Tincidunt cras tincidunt odio purus sollicitudin non augue euismod diam. 
-                    Nunc nisl ipsum vulputate orci. Vulputate eu ac nascetur lectus sit.
+                Choose our company for your personal injury case because we work on a contingency fee basis and connect you to the best attorney for your case. We provide personal counseling to ensure a detailed understanding of your case and a smooth compensation process. Additionally, we guarantee 100% privacy for your sensitive information.
                 </p>
             </div>
             <div className="section2_2 d-flex">
                 <div className="section2_2_1">
                     <p className="section2_2_1_heading1">No Win, No Fee</p>
                     <p className="section2_2_1_heading2">
-                        Lorem ipsum dolor sit amet consectetur. 
-                        A curabitur risus diam condimentum lectus condimentum. 
-                        Diam mattis fermentum curabitur leo. 
-                        Blandit quam interdum enim non commodo congue tellus facilisi placerat. 
-                        Eleifend egestas ut ultrices sed.
+                    We work on a contingency fee basis which means we 
+                    will only be paid when we win your case because we 
+                    understand your concern.
                     </p>
                 </div>
                 <div className="section2_2_1">
                     <p className="section2_2_1_heading1">Top Attorneys</p>
                     <p className="section2_2_1_heading2">
-                        Lorem ipsum dolor sit amet consectetur. 
-                        A curabitur risus diam condimentum lectus condimentum. 
-                        Diam mattis fermentum curabitur leo. 
-                        Blandit quam interdum enim non commodo congue tellus facilisi placerat. 
-                        Eleifend egestas ut ultrices sed.
+                    To increase the chances of winning your case, Lawyer4Help connects 
+                    you to the best attorney who is perfectly suitable for your personal injury case.
                     </p>
                 </div>
                 <div className="section2_2_1">
                     <p className="section2_2_1_heading1">Free Consultation</p>
                     <p className="section2_2_1_heading2">
-                        Lorem ipsum dolor sit amet consectetur. 
-                        A curabitur risus diam condimentum lectus condimentum. 
-                        Diam mattis fermentum curabitur leo. 
-                        Blandit quam interdum enim non commodo congue tellus facilisi placerat. 
-                        Eleifend egestas ut ultrices sed.
+                    To understand your personal injury case in detail with 100% accuracy, we provide you with personal counseling that can 
+                    assist you in either settling the case or bringing the claim to trial.
                     </p>
                 </div>
                 <div className="section2_2_1">
-                    <p className="section2_2_1_heading1">LawSuit</p>
+                    <p className="section2_2_1_heading1">Detailed Analysis</p>
                     <p className="section2_2_1_heading2">
-                        Lorem ipsum dolor sit amet consectetur. 
-                        A curabitur risus diam condimentum lectus condimentum. 
-                        Diam mattis fermentum curabitur leo. 
-                        Blandit quam interdum enim non commodo congue tellus facilisi placerat. 
-                        Eleifend egestas ut ultrices sed.
+                    To make a smooth compensation process for personal injury & 
+                    medical malpractices, we go with a detailed analysis so that we can 
+                    ensure an effective negotiation and not to miss a single chance.
                     </p>
                 </div>
                 <div className="section2_2_1">
-                    <p className="section2_2_1_heading1">Dedicated To Justice</p>
+                    <p className="section2_2_1_heading1">100% Privacy Maintenance</p>
                     <p className="section2_2_1_heading2">
-                        Lorem ipsum dolor sit amet consectetur. 
-                        A curabitur risus diam condimentum lectus condimentum. 
-                        Diam mattis fermentum curabitur leo. 
-                        Blandit quam interdum enim non commodo congue tellus facilisi placerat. 
-                        Eleifend egestas ut ultrices sed.
+                    Don’t worry, we understand your concern which is sensitive in nature and can not be 
+                    shared with anyone, so we provide you with 100% privacy for your case.
                     </p>
                 </div>
                 <div className="section2_2_1">

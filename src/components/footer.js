@@ -23,9 +23,9 @@ export function Footer() {
                 <p className="Section5_2_heading1">Quick Links</p>
                 <ul>
                     <li><a href="#Home">Home</a></li>
-                    <li><a href="#About">About</a></li>
-                    <li><a href="#Talcum">Talcum</a></li>
-                    <li><a href="#CampLejeune">Camp Lejeune</a></li>
+                    <li><a href="#About">About Us</a></li>
+                    <li><a href="#Feedback">Feedback</a></li>
+                    {/* <li><a href="#CampLejeune">Camp Lejeune</a></li> */}
                 </ul>
             </div>
             <div className="Section5_3">

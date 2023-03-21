@@ -9,6 +9,12 @@ import {Expertise} from './components/expertise';
 import {Contact} from './components/contact';
 import {Earplugs} from './components/3MEarplugs';
 import {Footer} from './components/footer';
+import {Zantac} from './components/Zantac';
+import {Nec} from './components/NEC';
+import {camp1} from './components/camp';
+import {Camplejeune} from './components/Camplejeune';
+import {Hairrelaxer} from './components/hairrelaxer';
+import {Talcum} from './components/Talcum';
 import './components/header.css'
 import './components/about.css'
 import './components/expertise.css'
@@ -16,7 +22,7 @@ import './components/contact.css'
 import './components/footer.css'
 
 function App() {
-  document.title = "American Compo"
+  document.title = "American Compo Legal"
   return (
     <BrowserRouter>   
     <div className="App">
@@ -24,6 +30,12 @@ function App() {
       <Routes>
             <Route path="/" element={<Home/>}/>
             <Route path="/paraquat" element={<Earplugs/>}/>
+            <Route path="/zantac" element={<Zantac/>}/>
+            <Route path="/nec" element={<Nec/>}/>
+            <Route path="/camplejeune" element={<Camplejeune/>}/>
+            <Route path="/hairrelaxer" element={<Hairrelaxer/>}/>
+            <Route path="/talcum" element={<Talcum/>}/>
+            
         </Routes>
       <Footer></Footer>
     </div>
